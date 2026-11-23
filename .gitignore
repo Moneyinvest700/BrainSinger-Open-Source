@@ -1,0 +1,6 @@
+/build/
+*.keystore
+*.jks
+local.properties
+.idea/
+.DS_Store
